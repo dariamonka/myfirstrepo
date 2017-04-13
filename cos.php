@@ -5,6 +5,7 @@
 <body>
 <?php
 echo "Przykładowy tekst na stronie";
+echo "Siemanko, witam w mojej kuchni!";
 ?>
 </body>
 </html>
